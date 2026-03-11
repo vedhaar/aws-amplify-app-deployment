@@ -16,5 +16,4 @@ A web application was deployed and hosted using AWS Amplify, which provides cont
 4. Deployed the application
 5. Accessed the app using the Amplify-generated URL
 
-## Screenshot
-(Add your screenshot here)
+
